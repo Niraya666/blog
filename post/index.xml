@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LZY Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on LZY Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2024 11:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAG工具箱：评估RAG系统的方法论</title>
+      <link>http://localhost:1313/post/rag%E5%B7%A5%E5%85%B7%E7%AE%B1/rag_toolkit_eval/</link>
+      <pubDate>Mon, 08 Apr 2024 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/rag%E5%B7%A5%E5%85%B7%E7%AE%B1/rag_toolkit_eval/</guid>
+      <description>写在最前面 在过去的几个月中，我主要致力于与RAG（检索增强生成模型）相关的研究和实验工作。通过深入地分析众多论文和项目代码，我发现虽然在RA</description>
+    </item>
+    <item>
+      <title>2024-03 月刊</title>
+      <link>http://localhost:1313/post/2024-03-%E6%9C%88%E5%88%8A/2024-03%E6%9C%88%E5%88%8A/</link>
+      <pubDate>Sun, 31 Mar 2024 21:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/2024-03-%E6%9C%88%E5%88%8A/2024-03%E6%9C%88%E5%88%8A/</guid>
+      <description>2024-03 月刊 本月GenAI大纪事 Suno V3 发布 V3版本带来了卓越的音频品质、更丰富的音乐风格和类型选择，以及在准确响应创作提示方面的显著提升。 更好的音频</description>
+    </item>
+    <item>
+      <title>My First Post: Hello-World!</title>
+      <link>http://localhost:1313/post/hello-world/</link>
+      <pubDate>Sat, 30 Mar 2024 14:44:41 +0800</pubDate>
+      <guid>http://localhost:1313/post/hello-world/</guid>
+      <description>Hello-World! 欢迎来到我的博客 在这里，我将深入探索生成式人工智能、深度学习以及Web3的奥秘，同时也会涉猎音乐、电影等领域，分享一些个人的思考和感悟。 为</description>
+    </item>
+  </channel>
+</rss>
